@@ -1,0 +1,4 @@
+travel-itinerary-planner/
+├── travel_planner.py          # Main application script
+├── requirements.txt           # Required Python packages
+├── README.md                  # Project documentation
