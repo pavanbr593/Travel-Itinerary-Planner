@@ -1,5 +1,7 @@
-langchain-core
-langgraph
-langchain-groq
-gradio
-IPython
+gradio==3.16.2
+langchain-groq==0.1.0
+langchain-core==0.0.9
+langgraph==0.1.1
+torch==2.0.1  
+fpdf==1.7.2
+python-docx==0.8.11
